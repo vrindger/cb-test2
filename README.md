@@ -11,15 +11,9 @@ Use the following commands:
 ###### `npm install`
 ###### `npm start` - to start the react app at port 3000
 
-## APIs are:
-##### `/signup`
-Sign up with an email and passwords with confirmation
-##### `/login`
-Log in
-##### `/logout`
-Log out a user
-##### `/dashboard`
-Empty page displayed upon login
+This should load the app
 
-![image](https://user-images.githubusercontent.com/58531716/156991545-10f47e3c-cbd9-4c35-a38e-20a69cbc4c09.png)
-![image](https://user-images.githubusercontent.com/58531716/156991691-0b0844d6-f656-4a17-ba51-21fb86307f89.png)
+![image](https://user-images.githubusercontent.com/58531716/157009885-0c873657-b85e-4e50-aff6-cb35006ee4cd.png)
+
+## Create Chat API 
+http://localhost:8000/backend_api/chat/
