@@ -5,6 +5,7 @@ This project uses Python, Django, DRF, Axios and React to create a simple crud m
 # Getting started
 
 Use the following commands:
+###### `pip install -r requirements.txt`
 ###### `python manage.py migrate` - to apply migrations
 ###### `python manage.py runserver` - to start the django server at port 8000
 ###### `cd frontend`
